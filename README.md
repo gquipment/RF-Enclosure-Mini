@@ -1,7 +1,9 @@
 # RF-Enclosure-Mini
 
-<p>This repository stores the gerber files of the reference PCBs as well as the S parameter charts used to evaluate performance
-of the RF Enclosure Mini and its SMA connectors.</p>
+This repository stores the gerber files of the reference PCBs as well as the S parameter charts used to evaluate performance
+of the RF Enclosure Mini and its SMA connectors.
+
+Application note : https://tinyurl.com/4w72hdcf
 
 ## List of PCBs
 
@@ -12,3 +14,9 @@ of the RF Enclosure Mini and its SMA connectors.</p>
 5. 08003014-TL-GCPW-H10-50-S0.4-A-SMA12
 6. 08003016-TL-GCPW-H10-50-S0.2-A-SMA12
 
+# BOM:
+RF Enclosure Mini, with mounting flange : https://www.gquipment.com/enclosures/14-rf-enclosure-mini-aluminium-with-mounting-flange.html
+RF Enclosure Mini, without mounting flange : https://www.gquipment.com/enclosures/13-rf-enclosure-mini-aluminium.html
+
+# Note:
+Select the correct SMA connector (6 GHz or 12.4 GHz) type when ordering the RF-Enclosure-Mini. By default, the SMA 6 GHz connector is selected.
