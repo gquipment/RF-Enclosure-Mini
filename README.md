@@ -7,16 +7,13 @@ Application note : https://tinyurl.com/4w72hdcf
 
 ## List of PCBs
 
-1. 08003002 -TL-USTRIP-H08-50-A-SMA6
-2. 08003004-TL-GCPW-H10-50-S0.4-C-SMA6
-3. 08003006-TL-USTRIP-H10-50-A-SMA12
-4. 08003008-TL-GCPW-H10-50-S0.2-C-SMA6
-5. 08003014-TL-GCPW-H10-50-S0.4-A-SMA12
-6. 08003016-TL-GCPW-H10-50-S0.2-A-SMA12
+1. 08003007-TL-USTRIP-H10-50-B-SMA12
+2. 08003015-TL-GCPW-H10-50-S0.4-B-SMA12
+3. 08003017-TL-GCPW-H10-50-S0.2-B-SMA12
 
 # BOM:
 RF Enclosure Mini, with mounting flange : https://www.gquipment.com/enclosures/14-rf-enclosure-mini-aluminium-with-mounting-flange.html
 RF Enclosure Mini, without mounting flange : https://www.gquipment.com/enclosures/13-rf-enclosure-mini-aluminium.html
 
 # Note:
-Select the correct SMA connector (6 GHz or 12.4 GHz) type when ordering the RF-Enclosure-Mini. By default, the SMA 6 GHz connector is selected.
+Select the correct SMA connector (brass or stainless steel) type when ordering the RF-Enclosure-Mini. By default, the brass, gold plated, SMA 18 GHz connector is selected.
